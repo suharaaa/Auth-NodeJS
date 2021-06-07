@@ -4,7 +4,13 @@ Authorization using NodeJS, Express and MongoDB
 Run this application
 
 Install all the modules
-# npm install
+```bash
+npm install
+```
 
 Run
-# npm start
+```bash
+npm start
+```
+
+You can send data to the database using # Postman
